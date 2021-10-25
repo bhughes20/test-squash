@@ -25,4 +25,7 @@ public class GitDemoApplication {
         return "test";
     }
 
+    // feature 009
+    // a commit to squash
+
 }
