@@ -15,7 +15,7 @@ public class GitDemoApplication {
         SpringApplication.run(GitDemoApplication.class, args);
     }
 
-    @GetMapping("/hello-spring")
+    @GetMapping("/hello")
     String greet() {
         return "Hello, Spring!";
     }
